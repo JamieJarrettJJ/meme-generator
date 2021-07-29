@@ -1,3 +1,74 @@
+#root {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+h1 {
+  margin-top: 30px !important;
+  font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Charcoal,
+    Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif;
+}
+
+.textInput {
+  margin-top: -300px;
+}
+
+.textInput input {
+  padding: 3px;
+  margin: 10px;
+}
+
+.textInput button {
+  margin-bottom: 20px;
+}
+
+body {
+  text-align: center;
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.selectedMeme {
+  margin-top: -500px;
+}
+
+.swiper-button-prev {
+  margin-left: -50px;
+  color: #343a40 !important;
+}
+
+.swiper-button-next {
+  margin-right: -50px;
+  color: #343a40 !important;
+}
+
+.swiper-container {
+  margin-top: 50px;
+  width: 300px;
+  height: 300px;
+  padding: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+}
+
 .App {
   text-align: center;
 }
