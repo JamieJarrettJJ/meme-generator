@@ -1,4 +1,4 @@
-# 7 Days, 7 Projects - Pathfinding Visualizer (Day 3/7)
+# 7 Days, 7 Projects - Meme Generator (Day 3/7)
 
 Extremely basic meme generator created using the Imgflip API. Demonstrates my ability to fetch data from an API as well as posting back to it.
 
