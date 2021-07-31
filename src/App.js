@@ -73,7 +73,7 @@ function App() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
-        <a className="navbar-brand" href="/">
+        <a className="navbar-brand" href="/meme-generator">
           <b>7 Days, 7 Projects - Meme Generator (Day 3/7)</b>
         </a>
 
